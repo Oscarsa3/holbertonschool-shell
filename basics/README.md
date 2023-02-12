@@ -12,5 +12,5 @@ Muetra el contenido del directorio en formato largo incluido los archivos oculto
 ##5-listfilesdigitonly
 Muestra el contenido en formato largo con usuarios, grupos y archivos ocultos
 ##6-firstdirectory
-Crea un nuevo archivo
+Crea un nuevo directorio
 
