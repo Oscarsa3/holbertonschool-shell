@@ -9,4 +9,6 @@ Cambia el directorio actual hacia el directorio hogar del userio
 Muestra el contenido del directorio en formato largo
 ##4-listmorefiles
 Muetra el contenido del directorio en formato largo incluido los archivos ocultos iniciando con .
+##5-listfilesdigitonly
+Muetsra el contenido en formato largo con usuarios, grupos y archivos ocultos
 
