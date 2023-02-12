@@ -10,5 +10,7 @@ Muestra el contenido del directorio en formato largo
 ##4-listmorefiles
 Muetra el contenido del directorio en formato largo incluido los archivos ocultos iniciando con .
 ##5-listfilesdigitonly
-Muetsra el contenido en formato largo con usuarios, grupos y archivos ocultos
+Muestra el contenido en formato largo con usuarios, grupos y archivos ocultos
+##6-firstdirectory
+Crea un nuevo archivo
 
