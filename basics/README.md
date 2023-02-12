@@ -7,4 +7,6 @@ Muestra el contenido del directorio actual
 Cambia el directorio actual hacia el directorio hogar del userio
 ##3-listfiles
 Muestra el contenido del directorio en formato largo
+##4-listmorefiles
+Muetra el contenido del directorio en formato largo incluido los archivos ocultos iniciando con .
 
