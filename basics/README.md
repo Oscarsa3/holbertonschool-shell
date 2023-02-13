@@ -17,4 +17,6 @@ Crea un nuevo directorio.
 Mueve el archivo hacia la ruta que especifiquemos
 ##8-firstdelete
 Elimina el archivo que especifiquemos
+##9-firstdirdeletion
+Elimina un directorio
 
