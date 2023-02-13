@@ -15,4 +15,6 @@ Muestra el contenido en formato largo con usuarios, grupos y archivos ocultos
 Crea un nuevo directorio.
 ##7-movethatfile
 Mueve el archivo hacia la ruta que especifiquemos
+##8-firstdelete
+Elimina el archivo que especifiquemos
 
