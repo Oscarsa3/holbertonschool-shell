@@ -13,4 +13,6 @@ Muetra el contenido del directorio en formato largo incluido los archivos oculto
 Muestra el contenido en formato largo con usuarios, grupos y archivos ocultos
 ##6-firstdirectory
 Crea un nuevo directorio.
+##7-movethatfile
+Mueve el archivo hacia la ruta que especifiquemos
 
