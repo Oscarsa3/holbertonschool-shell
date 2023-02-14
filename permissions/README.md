@@ -8,4 +8,6 @@ Imprime todos los grupos de los que forma parte el usuario actual
 Camiar el propietario de un archivo hacia otro usuario
 ##4-empty
 Crea un archivo vacio
+##5-execute
+Añade permisos de ejecucion en un archivo
 
