@@ -4,4 +4,6 @@ Agrega un usuario betty
 Imprime nombre del usuario actual
 ##2-groups
 Imprime todos los grupos de los que forma parte el usuario actual
+##3-new_owner
+Camiar el propietario de un archivo hacia otro usuario
 
