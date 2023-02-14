@@ -19,4 +19,6 @@ Mueve el archivo hacia la ruta que especifiquemos
 Elimina el archivo que especifiquemos
 ##9-firstdirdeletion
 Elimina un directorio
+##10-back
+Retroceder una ruta a la que estabamos trabajando
 
