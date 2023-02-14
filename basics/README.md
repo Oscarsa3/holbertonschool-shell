@@ -21,4 +21,6 @@ Elimina el archivo que especifiquemos
 Elimina un directorio
 ##10-back
 Retroceder una ruta a la que estabamos trabajando
+##11-lists
+Listar en formato largo todos los archivos, que empiecen con un punto y ocultos, de la ruta padre y del directorio boot
 
