@@ -23,4 +23,6 @@ Elimina un directorio
 Retroceder una ruta a la que estabamos trabajando
 ##11-lists
 Listar en formato largo todos los archivos, que empiecen con un punto y ocultos, de la ruta padre y del directorio boot
+##12-file_type
+Imprime el tipo de archivo de un archivo
 
