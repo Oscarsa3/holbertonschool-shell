@@ -25,4 +25,6 @@ Retroceder una ruta a la que estabamos trabajando
 Listar en formato largo todos los archivos, que empiecen con un punto y ocultos, de la ruta padre y del directorio boot
 ##12-file_type
 Imprime el tipo de archivo de un archivo
+##13-symbolic_link
+Crea un link simbolico
 
