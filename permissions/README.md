@@ -6,4 +6,6 @@ Imprime nombre del usuario actual
 Imprime todos los grupos de los que forma parte el usuario actual
 ##3-new_owner
 Camiar el propietario de un archivo hacia otro usuario
+##4-empty
+Crea un archivo vacio
 
