@@ -10,4 +10,6 @@ Camiar el propietario de un archivo hacia otro usuario
 Crea un archivo vacio
 ##5-execute
 Añade permisos de ejecucion en un archivo
+##6-multiple_permissions
+Añade permisos multiplos hacia el usuario, grupo y otros
 
