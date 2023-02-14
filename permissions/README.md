@@ -12,4 +12,6 @@ Crea un archivo vacio
 Añade permisos de ejecucion en un archivo
 ##6-multiple_permissions
 Añade permisos multiplos hacia el usuario, grupo y otros
+##7-everybody
+Añade permisos de ejecucion al owner, group owner y a los otros usuarios
 
