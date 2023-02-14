@@ -16,4 +16,6 @@ Añade permisos multiplos hacia el usuario, grupo y otros
 Añade permisos de ejecucion al owner, group owner y a los otros usuarios
 ##8-James_Bond
 Otorga todos los permisos solo a los otros usuarios
+##9-John_Doe
+Otorga todos los permisos al usuario, otorga el permiso de lectura y ejecucion a group owner y otorga los permisos de escritura y ejecucion a los otros usuarios
 
