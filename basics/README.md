@@ -27,4 +27,6 @@ Listar en formato largo todos los archivos, que empiecen con un punto y ocultos,
 Imprime el tipo de archivo de un archivo
 ##13-symbolic_link
 Crea un link simbolico
+##14-copy_html
+Crea una copia de todos los archivos que terminen en .html
 
