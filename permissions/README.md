@@ -14,4 +14,6 @@ Añade permisos de ejecucion en un archivo
 Añade permisos multiplos hacia el usuario, grupo y otros
 ##7-everybody
 Añade permisos de ejecucion al owner, group owner y a los otros usuarios
+##8-James_Bond
+Otorga todos los permisos solo a los otros usuarios
 
