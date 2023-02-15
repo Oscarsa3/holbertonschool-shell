@@ -16,4 +16,6 @@ Muestra la tercera linea del texto del archivo
 Introduce un texto para luego visualizarlo
 ##8-cwd_state
 Muestra todos los resultados de un ls -la en un archivo indicado
+##9-duplicate_last_line
+Duplicaremos la ultima linea del texto del archivo y lo mostraremos en el mismo archivo, no sobreescribirlo sino agragarlo
 
