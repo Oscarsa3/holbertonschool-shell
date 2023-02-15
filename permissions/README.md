@@ -24,4 +24,6 @@ Otorga permisos iguales a la de otro archivo
 Otorga permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el propietario del grupo y todos los demás usuarios
 ##12-directory_permissions
 Crea un directorio con los permisos 751
+##13-change_group
+Cambia el group owner 
 
