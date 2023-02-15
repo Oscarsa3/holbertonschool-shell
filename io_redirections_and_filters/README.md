@@ -18,4 +18,6 @@ Introduce un texto para luego visualizarlo
 Muestra todos los resultados de un ls -la en un archivo indicado
 ##9-duplicate_last_line
 Duplicaremos la ultima linea del texto del archivo y lo mostraremos en el mismo archivo, no sobreescribirlo sino agragarlo
+##10-no_more_js
+Eliminaremos solo los archivos que terminen en .js en nuestro directorio de trabajo
 
