@@ -8,4 +8,6 @@ Muestra el contenido de del archivo /etc/passwd
 Muetsra el contenido de dos archivos a la vez
 ##4-lastlines
 Muestra las 10 ultimas lineas del archivo
+##5-firstlines
+Muestra las 10 primeras filas del archivo
 
