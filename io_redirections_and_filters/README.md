@@ -12,4 +12,6 @@ Muestra las 10 ultimas lineas del archivo
 Muestra las 10 primeras filas del archivo
 ##6-third_line
 Muestra la tercera linea del texto del archivo
+##7-file
+Introduce un texto para luego visualizarlo
 
