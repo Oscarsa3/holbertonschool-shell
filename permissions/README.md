@@ -26,4 +26,6 @@ Otorga permiso de ejecución a todos los subdirectorios del directorio actual pa
 Crea un directorio con los permisos 751
 ##13-change_group
 Cambia el group owner 
+##14-change_owner_and_group
+Cambia el owner y el group owner de todos los archivos en el directorio de trabajo
 
