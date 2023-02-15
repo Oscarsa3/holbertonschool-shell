@@ -4,4 +4,6 @@ Imprimimos "Hola, Mundo"
 Imprimimos una cara confundida
 ##2-hellofile
 Muestra el contenido de del archivo /etc/passwd
+##3-twofiles
+Muetsra el contenido de dos archivos a la vez
 
