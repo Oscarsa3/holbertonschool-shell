@@ -6,4 +6,6 @@ Imprimimos una cara confundida
 Muestra el contenido de del archivo /etc/passwd
 ##3-twofiles
 Muetsra el contenido de dos archivos a la vez
+##4-lastlines
+Muestra las 10 ultimas lineas del archivo
 
