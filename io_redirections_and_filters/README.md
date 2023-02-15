@@ -14,4 +14,6 @@ Muestra las 10 primeras filas del archivo
 Muestra la tercera linea del texto del archivo
 ##7-file
 Introduce un texto para luego visualizarlo
+##8-cwd_state
+Muestra todos los resultados de un ls -la en un archivo indicado
 
