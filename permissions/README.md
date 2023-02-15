@@ -22,3 +22,6 @@ Otorga todos los permisos al usuario, otorga el permiso de lectura y ejecucion a
 Otorga permisos iguales a la de otro archivo
 ##11-directories_permissions
 Otorga permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el propietario del grupo y todos los demás usuarios
+##12-directory_permissions
+Crea un directorio con los permisos 751
+
