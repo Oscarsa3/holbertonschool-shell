@@ -10,4 +10,6 @@ Muetsra el contenido de dos archivos a la vez
 Muestra las 10 ultimas lineas del archivo
 ##5-firstlines
 Muestra las 10 primeras filas del archivo
+##6-third_line
+Muestra la tercera linea del texto del archivo
 
