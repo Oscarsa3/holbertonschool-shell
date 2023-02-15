@@ -28,4 +28,6 @@ Crea un directorio con los permisos 751
 Cambia el group owner 
 ##14-change_owner_and_group
 Cambia el owner y el group owner de todos los archivos en el directorio de trabajo
+##15-symbolic_link_permissions
+Cambia el owner y el group owner de un link simbolico
 
