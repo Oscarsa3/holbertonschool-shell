@@ -20,4 +20,5 @@ Otorga todos los permisos solo a los otros usuarios
 Otorga todos los permisos al usuario, otorga el permiso de lectura y ejecucion a group owner y otorga los permisos de escritura y ejecucion a los otros usuarios
 ##10-mirror_permissions
 Otorga permisos iguales a la de otro archivo
-
+##11-directories_permissions
+Otorga permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el propietario del grupo y todos los demás usuarios
