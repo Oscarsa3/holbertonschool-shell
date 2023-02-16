@@ -28,4 +28,6 @@ Imprime los 10 archivos mas nuevos desde la fecha mas reciente
 Imprime las lineas unicas y no repetidas de un archivo
 ##14-findthatword
 Imprime la linea donde contiene el patron 'root'
+##15-countthatword
+Imprime el resultado de la cuenta de palabras que contiene el patron bin
  
