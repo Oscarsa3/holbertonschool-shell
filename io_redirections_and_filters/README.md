@@ -30,4 +30,6 @@ Imprime las lineas unicas y no repetidas de un archivo
 Imprime la linea donde contiene el patron 'root'
 ##15-countthatword
 Imprime el resultado de la cuenta de palabras que contiene el patron bin
+##16-whatsnext
+Imprime la linea que contiene el patron root y adicional a ello mostrar las 3 lines siguientes
  
