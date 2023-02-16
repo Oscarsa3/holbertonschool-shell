@@ -38,4 +38,6 @@ Imprime las lineas que no contiene el patron bin
 Imprime solo las lineas que inicien con letra, ya sea mayuscula o minuscula
 ##19-AZ
 Cambia determinadas letras por otras que queremos dentro de un texto
+##20-hiago
+Elimina las letras 'c' y 'C' de un texto
   
