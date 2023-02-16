@@ -44,4 +44,6 @@ Elimina las letras 'c' y 'C' de un texto
 Pone el texto de forma invertida
 ##22-users_and_homes
 Mostrar solo los usuarios y directorios del archivo /etc/passwd ordenado alfabeticamente por el usuario
+##23-empty_casks
+Mostrarme los archivos y derectorios vacios dentro de la ruta actual y mostarlos solo por su nombre
   
