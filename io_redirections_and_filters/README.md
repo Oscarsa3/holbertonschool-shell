@@ -40,4 +40,6 @@ Imprime solo las lineas que inicien con letra, ya sea mayuscula o minuscula
 Cambia determinadas letras por otras que queremos dentro de un texto
 ##20-hiago
 Elimina las letras 'c' y 'C' de un texto
+##21-reverse
+Pone el texto de forma invertida
   
