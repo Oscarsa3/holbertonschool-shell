@@ -20,4 +20,6 @@ Muestra todos los resultados de un ls -la en un archivo indicado
 Duplicaremos la ultima linea del texto del archivo y lo mostraremos en el mismo archivo, no sobreescribirlo sino agragarlo
 ##10-no_more_js
 Eliminaremos solo los archivos que terminen en .js en nuestro directorio de trabajo
-
+##11-directories
+Muestra la cantidad de  directorios y subdirectorios del directorio actual de trabajo
+ 
