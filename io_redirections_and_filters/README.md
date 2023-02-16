@@ -26,4 +26,6 @@ Muestra la cantidad de  directorios y subdirectorios del directorio actual de tr
 Imprime los 10 archivos mas nuevos desde la fecha mas reciente
 ##13-unique
 Imprime las lineas unicas y no repetidas de un archivo
-| 
+##14-findthatword
+Imprime la linea donde contiene el patron 'root'
+ 
