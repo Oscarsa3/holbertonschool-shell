@@ -42,4 +42,6 @@ Cambia determinadas letras por otras que queremos dentro de un texto
 Elimina las letras 'c' y 'C' de un texto
 ##21-reverse
 Pone el texto de forma invertida
+##22-users_and_homes
+Mostrar solo los usuarios y directorios del archivo /etc/passwd ordenado alfabeticamente por el usuario
   
