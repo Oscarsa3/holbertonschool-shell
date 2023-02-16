@@ -32,4 +32,6 @@ Imprime la linea donde contiene el patron 'root'
 Imprime el resultado de la cuenta de palabras que contiene el patron bin
 ##16-whatsnext
 Imprime la linea que contiene el patron root y adicional a ello mostrar las 3 lines siguientes
+##17-hidethisword
+Imprime las lineas que no contiene el patron bin
  
