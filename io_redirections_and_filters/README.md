@@ -46,4 +46,6 @@ Pone el texto de forma invertida
 Mostrar solo los usuarios y directorios del archivo /etc/passwd ordenado alfabeticamente por el usuario
 ##23-empty_casks
 Mostrarme los archivos y derectorios vacios dentro de la ruta actual y mostarlos solo por su nombre
+##24-gifs
+Imprimir todos los archivos que terminen en .gif del directorio actual y subdirectorios y ordenarlos por valor de byte
   
