@@ -22,4 +22,6 @@ Duplicaremos la ultima linea del texto del archivo y lo mostraremos en el mismo 
 Eliminaremos solo los archivos que terminen en .js en nuestro directorio de trabajo
 ##11-directories
 Muestra la cantidad de  directorios y subdirectorios del directorio actual de trabajo
+##12-newest_files
+Imprime los 10 archivos mas nuevos desde la fecha mas reciente
  
