@@ -1,3 +1,3 @@
 ##0-alias
-Creamos un alias donde guardamos un comando de ejecucion que seria el rm *
+Crea un alias con el nombre de ls que elimina todos los archivos con el comando rm *
 
