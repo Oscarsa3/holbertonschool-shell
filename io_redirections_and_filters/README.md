@@ -50,4 +50,6 @@ Mostrarme los archivos y derectorios vacios dentro de la ruta actual y mostarlos
 Imprimir todos los archivos que terminen en .gif del directorio actual y subdirectorios y ordenarlos por valor de byte
 ##25-acrostic
 Decodifica acrosticos tomando la primera letra mayuscula
+##26-the_biggest_fan
+Imprimir solos los 11 primeros servidores mas visitados del archivo ordenado desde el mas visitado hasta el menos
   
