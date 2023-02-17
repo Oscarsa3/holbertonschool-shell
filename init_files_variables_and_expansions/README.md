@@ -18,4 +18,6 @@ Crea una nueva variable global
 Muestra la adicion de 128 con la variable de entorno
 ##9-divide_and_rule
 Divide dos variables
+##10-love_exponent_breath
+Eleva a la potencia una variable con la otra
 
