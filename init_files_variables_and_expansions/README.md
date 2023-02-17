@@ -16,4 +16,6 @@ Crea una nueva variable local
 Crea una nueva variable global
 ##8-true_knowledge
 Muestra la adicion de 128 con la variable de entorno
+##9-divide_and_rule
+Divide dos variables
 
