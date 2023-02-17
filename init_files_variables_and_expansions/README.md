@@ -6,4 +6,6 @@ Muestra el texto Hello y añade el usuario
 Agrega /action al path y se visualiza ultimo
 ##3-paths
 Muestra la cantidad de directorios que se encuentra en PATH
+##4-global_variables
+Muestra la lista de variables globales
 
