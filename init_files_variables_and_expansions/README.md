@@ -8,4 +8,6 @@ Agrega /action al path y se visualiza ultimo
 Muestra la cantidad de directorios que se encuentra en PATH
 ##4-global_variables
 Muestra la lista de variables de entorno
+##5-local_variables
+Muestra un listado de las variables globales, de entorno y funciones
 
