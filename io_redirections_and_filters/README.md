@@ -48,4 +48,6 @@ Mostrar solo los usuarios y directorios del archivo /etc/passwd ordenado alfabet
 Mostrarme los archivos y derectorios vacios dentro de la ruta actual y mostarlos solo por su nombre
 ##24-gifs
 Imprimir todos los archivos que terminen en .gif del directorio actual y subdirectorios y ordenarlos por valor de byte
+##25-acrostic
+Decodifica acrosticos tomando la primera letra mayuscula
   
