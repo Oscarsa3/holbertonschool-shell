@@ -12,4 +12,6 @@ Muestra la lista de variables de entorno
 Muestra un listado de las variables globales, de entorno y funciones
 ##6-create_local_variable
 Crea una nueva variable local
+##7-create_global_variable
+Crea una nueva variable global
 
