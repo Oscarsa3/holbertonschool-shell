@@ -92,4 +92,6 @@ Comvierte numeros en base 10 a base 16
 Comvierte numeros en base 10 a base 16
 ##14-decimal_to_hexadecimal
 Comvierte numeros en base 10 a base 16
+##15-rot13
+Codifica y decodifica textos usando la encryptacion rot13
 
