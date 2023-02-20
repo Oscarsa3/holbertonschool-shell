@@ -24,4 +24,6 @@ Eleva a la potencia una variable con la otra
 Convertir de binario a decimal
 ##12-combinatios
 Muestra todas las posibles combinaciones de dos letras ordenado de manetra alfabetica con excepcion del oo
+##13-print_float
+Muestra los numeros con dos decimales adicionales
 
