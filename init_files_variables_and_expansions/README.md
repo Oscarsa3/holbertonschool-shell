@@ -26,4 +26,70 @@ Convertir de binario a decimal
 Muestra todas las posibles combinaciones de dos letras ordenado de manetra alfabetica con excepcion del oo
 ##13-print_float
 Muestra los numeros con dos decimales adicionales
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
+##14-decimal_to_hexadecimal
+Comvierte numeros en base 10 a base 16
 
