@@ -94,4 +94,6 @@ Comvierte numeros en base 10 a base 16
 Comvierte numeros en base 10 a base 16
 ##15-rot13
 Codifica y decodifica textos usando la encryptacion rot13
+##16-odd
+Imprime cada dos lineas comenzando desde la entrada, comenzando con la primera linea
 
