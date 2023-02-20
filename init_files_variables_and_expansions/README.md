@@ -20,4 +20,6 @@ Muestra la adicion de 128 con la variable de entorno
 Divide dos variables
 ##10-love_exponent_breath
 Eleva a la potencia una variable con la otra
+##11-binary_to_decimal
+Convertir de binario a decimal
 
